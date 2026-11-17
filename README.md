@@ -38,3 +38,24 @@ typst compile article.typ
 typst compile article_as_asset.typ
 
 ```
+## Template
+
+- jsomdify.typ est la _lib Typst_ qui expose la fonction **jsomd-render**
+
+- article.typ est un template pour produire directement à partir de article.md
+
+- article_as_asset.typ correspond à **mon usage**, le JsoMD est vu comme un dictionnaire d'asset H1 et H2 
+
+## Limites
+
+- Indexation à deux niveaux : niveau 1 et 2
+
+- Pas de gestion du Latex mais des contournements sont possibles.
+
+- et tous les cas de figure qui m'ont pas encore éclatés à la tronche
+
+ > On tombe dessus, c'est le jeux ma pauvre Lucette ! 
+
+Template
+
+
