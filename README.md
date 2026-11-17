@@ -6,7 +6,7 @@ Une expérimentation de pivot **JSon** de fichier **MarkDown** pour **Typst**
 
 Le pourquoi du comment est expliqué dans ce post [Keszako, le JsoMD ?](https://www.inimod.org/plumitif/jsonmd) , une version rapide est qu'Obsidian est mon système-auteur central et que je recherche un mécanisme de WOPE (Write Once, Publish Everywhere) pour la production de PDF par Typst.
 
-Le périmètre fonctionnel est donc le mien et le _process jsomdify_ le couvre :
+**JSoMDify** fait parti de mon apprentissage de Typst, le périmètre fonctionnel est donc le mien et le _process_ le couvre :
 
 - Si cela vous convient : Utilisez-le, forkez-le, vous vous l'appropriez.
 
