@@ -17,7 +17,7 @@ Le pourquoi du comment est expliqué dans ce post [Keszako, le JsoMD ?](https://
 
 ## Howto
 
-Je suppose que Python 3.10 minimum et Typst sont installés
+Je suppose que **Python 3.10 minimum** et **Typst** sont installés
 
 **Dépendances python**
 
@@ -45,7 +45,7 @@ typst compile article_as_asset.typ
 
 - article_as_asset.typ correspond à **mon usage**, le JsoMD est vu comme un dictionnaire d'asset H1 et H2
 
-  **Vous devez donc adapter vos templates à vos usage en définissant votre pipele !**
+  **Vous devez donc adapter vos templates à vos usages en définissant votre pipeline !**
 
 ## Limites
 
