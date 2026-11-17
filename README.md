@@ -8,9 +8,12 @@ Le pourquoi du comment est expliqué dans ce post [Keszako, le JsoMD ?](https://
 
 Le périmètre fonctionnel est donc le mien et le _process jsomdify_ le couvre :
 
-Si cela vous convient : Utilisez-le, forkez-le, vous vous l'appropriez.
-Si cela ne vous convient pas : Le code est ouvert. Ouvrez votre éditeur, modifiez-le
-Si vous faîtes du Latex : restez avec vos runes de grimoires poussiéreux et venez pas me rapper les sabots, l'âne est agressif en cette saison !
+- Si cela vous convient : Utilisez-le, forkez-le, vous vous l'appropriez.
+
+- Si cela ne vous convient pas : Le code est ouvert. Ouvrez votre éditeur, modifiez-le
+  
+- Si vous faîtes du Latex : restez avec vos runes de grimoires poussiéreux et venez pas me rapper les sabots, l'âne est agressif en cette saison !
+
 
 ## Howto
 
