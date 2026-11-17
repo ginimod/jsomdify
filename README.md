@@ -9,7 +9,18 @@ un pivot Json der MD pour Typst
 
 Je suppose que Python3 et Typst sont installés
 
+```requirements
+
+python-frontmatter
+mistletoe
+```
+
 ```
 pip install -r requirements.txt
+
+python jsomdify.py article.md
+
+typst compile article.typ
+typst compile article_as_asset.typ
 
 ```
