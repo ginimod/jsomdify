@@ -1,6 +1,6 @@
 # JsoMDify
 
-Une expérimentation de pivot de fichier  **MarkDown** en **JSon** pour **Typst** 
+Une expérimentation de pivot **JSon** de fichier **MarkDown** pour **Typst** 
 
 ## Le pourquoi 
 
