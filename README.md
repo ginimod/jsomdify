@@ -17,7 +17,7 @@ Le pourquoi du comment est expliqué dans ce post [Keszako, le JsoMD ?](https://
 
 ## Howto
 
-Je suppose que Python3 et Typst sont installés
+Je suppose que Python 3.10 minimum et Typst sont installés
 
 **Dépendances python**
 
