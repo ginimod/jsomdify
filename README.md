@@ -9,11 +9,15 @@ un pivot Json der MD pour Typst
 
 Je suppose que Python3 et Typst sont installés
 
+**Dépendances python**
+
 ```requirements
 
 python-frontmatter
 mistletoe
 ```
+
+**Exécution**
 
 ```
 pip install -r requirements.txt
