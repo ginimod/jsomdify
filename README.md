@@ -33,8 +33,8 @@ pip install -r requirements.txt
 
 python jsomdify.py article.md
 
-typst compile article.typ
-typst compile article_as_asset.typ
+typst compile --input jsomd=.article.jsomd article_complet.typ article.pdf
+typst compile --input jsomd=.article.jsomd article_asset.typ article_asset.pdf
 
 ```
 ## Template
