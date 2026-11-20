@@ -1,5 +1,5 @@
 ---
-title: Article 
+title: "Un article vachement bien" 
 ---
 # Un article vachement bien
 

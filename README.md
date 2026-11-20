@@ -4,7 +4,7 @@ Une expérimentation de pivot **JSon** de fichier **MarkDown** pour **Typst**
 
 ## Le pourquoi 
 
-Le pourquoi du comment est expliqué dans ce post [Keszako, le JsoMD ?](https://www.inimod.org/plumitif/jsonmd) , une version rapide est qu'Obsidian est mon système-auteur central et que je recherche un mécanisme de **WOPE** (Write Once, Publish Everywhere) pour la production de PDF par Typst.
+Le pourquoi du comment est expliqué dans ce post [Keszako, le JsoMD ?](https://www.inimod.org/plumitif/jsonmd) , une version rapide est qu'Obsidian est mon système-auteur central et que je recherche un mécanisme de WOPE (Write Once, Publish Everywhere) pour la production de PDF par Typst.
 
 **JSoMDify** fait partie de mon apprentissage de Typst, le périmètre fonctionnel est donc le mien et le _process_ le couvre :
 
@@ -17,7 +17,7 @@ Le pourquoi du comment est expliqué dans ce post [Keszako, le JsoMD ?](https://
 
 ## Howto
 
-Je suppose que **Python 3.10 minimum** et **Typst** sont installés
+Je suppose que Python3 et Typst sont installés
 
 **Dépendances python**
 
@@ -43,9 +43,7 @@ typst compile article_as_asset.typ
 
 - article.typ est un template pour produire directement à partir de article.md
 
-- article_as_asset.typ correspond à **mon usage**, le JsoMD est vu comme un dictionnaire d'asset H1 et H2
-
-  **Vous devez donc adapter vos templates à vos usages en définissant votre pipeline !**
+- article_as_asset.typ correspond à **mon usage**, le JsoMD est vu comme un dictionnaire d'asset H1 et H2 
 
 ## Limites
 
@@ -55,7 +53,4 @@ typst compile article_as_asset.typ
 
 - et tous les cas de figure qui m'ont pas encore éclatés à la tronche
 
- > On tombe dessus, c'est le jeu ma pauvre Lucette ! 
-
-
-
+ > On tombe dessus, c'est le jeu ma pauvre Lucette !
